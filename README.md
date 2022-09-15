@@ -8,7 +8,8 @@
   - Mais aussi les mangas ! -> **Berserk** :goberserk:
   - Je suis **7 kyû** avec 72 d'honneur sur ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey) (bientôt 6 kyû :fire:)
   
-  
+ 
+    
   
   **Language & Frameworks en cours d'étude:**
   - [x] ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,6 +20,9 @@
   - [x] ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   - [ ] ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   - [ ] ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+  
+   <img align="right" width="25%" src="https://www.filmmusicsite.com/images/covers/large/88554.jpg"></img>
+   
 
 **Outils que j'utilise:**
   - [x] ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
