@@ -37,8 +37,9 @@
 
   
   # Mes contacts ! 
-  - Linkedin : https://www.linkedin.com/in/denis-bucspun-13198a23b/
-  - Twitter : https://twitter.com/NexisB
+<a href="https://www.linkedin.com/in/denis-bucspun-13198a23b/"><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" title="Profil Denis" alt="Linkedin"></a>
+
+<a href="https://www.linkedin.com/in/denis-bucspun-13198a23b/"><img width="15%" align="right" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" title="Profil Denis" alt="Linkedin"></a>
       
   
     
