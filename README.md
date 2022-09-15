@@ -37,11 +37,13 @@
 
   
   # Mes contacts ! 
-<a href="https://www.linkedin.com/in/denis-bucspun-13198a23b/"><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" title="Profil Denis" alt="Linkedin"></a>
+   
 
+   <div style="display: flex; align-items: flex-start;">
+    <a href="https://www.linkedin.com/in/denis-bucspun-13198a23b/"><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
+    <a href="https://twitter.com/NexisB"><img width="15%" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" />
+  </div>
 
-      
-  
     
   
  
