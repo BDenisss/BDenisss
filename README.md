@@ -6,7 +6,7 @@
   - Je suis un **apprenti** développeur (enfin, pour le moment 😎)
   - J'adore le divertissement de type jeux-vidéos -> **From software** :ok_hand:
   - Mais aussi les mangas ! -> **Berserk** :goberserk:
-  - Je suis **6 kyû** avec 151 d'honneur sur ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
+  - Je suis **5 kyû** avec 244 d'honneur sur ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
   
  
     
