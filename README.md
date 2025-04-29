@@ -1,48 +1,75 @@
-   # Hey 👋! Je m'appelle *Denis Bucspun*😄.
-   
+<!-- ————————————————————————————————————
+  PROFIL GITHUB · DENIS BUCSPUN
+———————————————————————————————————— -->
 
-   <img align="right" width="25%" src="https://www.terressens.fr/assets/images/samourai-japon-katana-armure-peinture-aquarelle-rouge-noire-500x500.jpg"></img>
+<h1 align="center">
+  Hey&nbsp;👋, moi c’est <em>Denis Bucspun</em> !
+</h1>
 
-  - Je suis un **apprenti** développeur (enfin, pour le moment 😎)
-  - J'adore le divertissement de type jeux-vidéos -> **From software** :ok_hand:
-  - Je suis **5 kyû** avec 244 d'honneur sur ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
-  
- 
-    
-  
-  **Language & Frameworks en cours d'étude:**
-  - [x] ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  - [x] ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  - [x] ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  - [x] ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  - [x] ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-  - [x] ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  - [x] ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  - [x] ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-  
-   <img align="right" width="25%" src="https://www.filmmusicsite.com/images/covers/large/88554.jpg"></img>
-   
+<p align="center">
+  <img src="https://www.terressens.fr/assets/images/samourai-japon-katana-armure-peinture-aquarelle-rouge-noire-500x500.jpg" width="180" alt="Samouraï à l’aquarelle">
+</p>
 
-**Outils que j'utilise:**
-  - [x] ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-  - [x] ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white)
-  - [x] ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
-  - [x] ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-  - [x] 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-      
-    
-   <img class="img" src="https://github-readme-stats.vercel.app/api?username=bdenisss&theme=dark&show_icons=true"/> 
+<p align="center">
+  <strong>Apprenti développeur</strong> (mais plus pour longtemps 😎)<br>
+  Passionné de <strong>jeux vidéo</strong> – en particulier tout ce que fait <em>FromSoftware</em> 👌
+</p>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/bdenisss">
+    <img alt="Codewars honour level" src="https://img.shields.io/badge/Codewars-4%20kyû%20·%20714%20honor-B1361E?style=for-the-badge&logo=codewars&logoColor=white">
+  </a>
+</p>
 
 
-  
-  # Mes contacts ! 
-   
+---
 
-   <div style="display: flex; align-items: flex-start;">
-    <a href="https://www.linkedin.com/in/denis-bucspun-13198a23b/"><img width="15%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"/>
-    <a href="https://twitter.com/NexisB"><img width="15%" src="https://about.twitter.com/content/dam/about-twitter/en/brand-toolkit/brand-download-img-1.jpg.twimg.1920.jpg" />
-  </div>
+## 🚀 Tech Stack (principales)
 
-    
-  
- 
+| Langages | Frameworks & Libs | Bases de données |
+| -------- | ---------------- | ---------------- |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vuedotjs&logoColor=4FC08D) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-005F87?style=flat&logo=mysql&logoColor=white) |
+
+### 🌱 En cours d’apprentissage
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+
+---
+
+
+## 🧠 Compétences en algorithmie
+- Recherche & Tri : recherche binaire, quick sort, merge sort
+- Graphes : parcours en profondeur (**DFS**), parcours en largeur (**BFS**) et (**A**)
+
+---
+## 🛠️ Outils créatifs
+
+![Adobe CC](https://img.shields.io/badge/Adobe%20CC-FF0000?style=flat&logo=adobe&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white) ![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=FF61F6) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D?style=flat&logo=adobefonts&logoColor=white)
+
+---
+
+## 📈 Stats GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bdenisss&show_icons=true&theme=dark&hide_border=true" width="49%" alt="Statistiques GitHub">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=bdenisss&theme=dark&hide_border=true" width="49%" alt="Streak GitHub">
+</p>
+
+---
+
+## 📫 Me contacter
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/denis-bucspun-13198a23b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/NexisB">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://www.filmmusicsite.com/images/covers/large/88554.jpg" width="180" alt="Signature visuelle"><br>
+  <em>« Keep coding, stay curious »</em>
+</p>
