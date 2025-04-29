@@ -40,7 +40,7 @@
 
 ## 🧠 Compétences en algorithmie
 - Recherche & Tri : recherche binaire, quick sort, merge sort
-- Graphes : parcours en profondeur (**DFS**), parcours en largeur (**BFS**) et (**A**)
+- Graphes : parcours en profondeur (**DFS**), parcours en largeur (**BFS**) et (**A***)
 
 ---
 ## 🛠️ Outils créatifs
