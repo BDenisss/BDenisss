@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>Apprenti développeur</strong> (mais plus pour longtemps 😎)<br>
+  <strong>Développeur Fullstack</strong><br>
   Passionné de <strong>jeux vidéo</strong> – en particulier tout ce que fait <em>FromSoftware</em> 👌
 </p>
 
