@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <strong>Développeur Fullstack</strong><br>
+  <strong>Développeur Logiciel</strong><br>
   Passionné de <strong>jeux vidéo</strong> – en particulier tout ce que fait <em>FromSoftware</em> 👌
 </p>
 
